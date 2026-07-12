@@ -53,4 +53,12 @@
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
