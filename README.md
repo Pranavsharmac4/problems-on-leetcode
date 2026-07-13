@@ -61,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
