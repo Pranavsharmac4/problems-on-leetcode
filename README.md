@@ -13,6 +13,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
