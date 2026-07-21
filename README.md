@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -92,6 +94,7 @@
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
