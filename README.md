@@ -83,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
