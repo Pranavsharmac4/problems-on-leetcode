@@ -89,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
