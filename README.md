@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -97,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -164,5 +166,6 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
