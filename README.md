@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -106,6 +107,7 @@
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
