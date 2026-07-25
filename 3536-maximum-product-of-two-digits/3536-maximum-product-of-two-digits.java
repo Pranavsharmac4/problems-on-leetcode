@@ -1,11 +1,18 @@
 class Solution {
+
     public int maxProduct(int n) {
-        long m = 0;
-
-        for (; n != 0; n /= 10)
-            m += 1L << ((n % 10) << 2);
-
-        int u = (64 - Long.numberOfLeadingZeros(m) - 1) >> 2;
-        return u * ((64 - Long.numberOfLeadingZeros(m - (1L << (u << 2))) - 1) >> 2);
+        int first = 0,
+            second = 0;
+        while (n > 0) {
+            int x = n % 10;
+            if (x > first) {
+                second = first;
+                first = x;
+            } else if (x > second) {
+                second = x;
+            }
+            n /= 10;
+        }
+        return first * second;
     }
 }
