@@ -42,6 +42,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -49,6 +50,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -62,6 +64,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -105,6 +108,7 @@
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
