@@ -105,6 +105,7 @@
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [3110-score-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Stack
