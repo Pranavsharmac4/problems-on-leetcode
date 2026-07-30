@@ -106,6 +106,7 @@
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -140,6 +141,7 @@
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -188,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
