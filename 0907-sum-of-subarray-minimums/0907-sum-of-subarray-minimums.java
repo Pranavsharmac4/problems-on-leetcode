@@ -1,10 +1,10 @@
 class Solution {
-    public int sumSubarrayMins(int[] arr) {
+public int sumSubarrayMins(int[] arr) {
         int n = arr.length;
         long mod = 1_000_000_007;
         int[] left = new int[n];  
         int[] right = new int[n]; 
-        Deque<Integer> stack = new ArrayDeque<>();
+        Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < n; i++) {
             while (!stack.isEmpty() && arr[stack.peek()] >= arr[i]) {
                 stack.pop();
