@@ -103,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -139,6 +140,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -161,6 +163,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
