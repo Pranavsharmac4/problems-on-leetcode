@@ -14,6 +14,7 @@
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -165,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
