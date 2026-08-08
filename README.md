@@ -99,6 +99,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
@@ -178,6 +179,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
