@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
