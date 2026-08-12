@@ -13,6 +13,7 @@
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -148,6 +150,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -226,6 +229,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -276,4 +280,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
