@@ -32,6 +32,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -48,6 +49,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
