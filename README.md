@@ -146,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -223,6 +224,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
