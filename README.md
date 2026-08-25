@@ -152,6 +152,7 @@
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -226,6 +227,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
