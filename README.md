@@ -31,6 +31,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -283,6 +284,7 @@
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
