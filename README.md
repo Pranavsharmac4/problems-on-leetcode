@@ -18,6 +18,7 @@
 | [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
@@ -353,6 +354,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
