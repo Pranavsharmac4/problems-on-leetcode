@@ -39,6 +39,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -58,6 +59,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -99,6 +101,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,11 +328,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
