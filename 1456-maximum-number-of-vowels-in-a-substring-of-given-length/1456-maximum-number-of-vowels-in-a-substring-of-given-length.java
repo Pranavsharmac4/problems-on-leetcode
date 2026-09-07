@@ -13,10 +13,9 @@ class Solution {
             }
             if(isVowel(s.charAt(right - k))) {
                 count--;
-            }  
+            }
             max = Math.max(max, count);
         }
-        
         return max;
     }
     private boolean isVowel(char c) {
