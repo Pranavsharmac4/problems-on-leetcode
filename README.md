@@ -95,6 +95,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
