@@ -27,6 +27,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -78,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -287,6 +289,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -385,6 +388,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
