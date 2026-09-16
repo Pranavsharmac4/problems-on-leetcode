@@ -237,6 +237,7 @@
 | [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -287,6 +288,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Counting
@@ -298,6 +300,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -338,6 +341,7 @@
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
