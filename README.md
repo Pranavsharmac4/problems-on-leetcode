@@ -34,6 +34,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -418,6 +419,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
