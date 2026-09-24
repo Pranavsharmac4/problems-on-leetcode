@@ -48,6 +48,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Phatom515/problems-on-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -256,6 +257,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
