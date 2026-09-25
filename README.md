@@ -243,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0029-divide-two-integers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0202-happy-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -389,6 +390,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
