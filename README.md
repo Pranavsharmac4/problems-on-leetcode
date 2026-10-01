@@ -109,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -364,6 +366,7 @@
 | [0042-trapping-rain-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
@@ -453,6 +456,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,4 +465,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
