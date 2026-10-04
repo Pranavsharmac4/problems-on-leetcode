@@ -201,6 +201,7 @@
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0412-fizz-buzz](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -232,6 +233,7 @@
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -353,6 +355,7 @@
 | [0011-container-with-most-water](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -369,6 +372,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -463,6 +467,7 @@
 | [0020-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
