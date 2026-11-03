@@ -177,6 +177,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -186,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
