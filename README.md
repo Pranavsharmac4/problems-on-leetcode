@@ -179,6 +179,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0092-reverse-linked-list-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
