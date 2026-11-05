@@ -21,6 +21,7 @@
 | [0456-132-pattern](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0641-design-circular-deque](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -183,6 +184,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0641-design-circular-deque](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -265,12 +267,14 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0641-design-circular-deque](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0641-design-circular-deque](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
