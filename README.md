@@ -50,6 +50,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -358,6 +359,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
@@ -478,6 +480,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
