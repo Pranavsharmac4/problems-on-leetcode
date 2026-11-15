@@ -37,6 +37,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -287,6 +288,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -357,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -407,6 +410,7 @@
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Heap (Priority Queue)
