@@ -531,4 +531,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1148-article-views-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
