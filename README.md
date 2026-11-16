@@ -234,6 +234,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -340,6 +341,7 @@
 | [0735-asteroid-collision](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
