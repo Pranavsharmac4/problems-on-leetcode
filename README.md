@@ -122,6 +122,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -148,6 +150,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
