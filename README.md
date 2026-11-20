@@ -238,6 +238,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1927-sum-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1927-sum-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3110-score-of-a-string/) | Easy |
@@ -269,6 +270,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@
 | [0946-validate-stack-sequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
