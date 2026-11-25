@@ -15,6 +15,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0274-h-index/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -433,6 +434,7 @@
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0877-stone-game/) | Medium |
