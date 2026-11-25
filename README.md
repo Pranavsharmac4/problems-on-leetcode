@@ -16,6 +16,7 @@
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0274-h-index/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -81,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0202-happy-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -505,6 +507,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
