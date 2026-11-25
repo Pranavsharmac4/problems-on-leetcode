@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0260-single-number-iii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0274-h-index](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0274-h-index/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -124,6 +125,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -152,6 +154,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Phatom515/problems-on-leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -388,6 +391,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0912-sort-an-array](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -537,6 +541,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranavsharmac4/problems-on-leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
